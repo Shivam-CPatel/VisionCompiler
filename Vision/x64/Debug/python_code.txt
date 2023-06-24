@@ -1,0 +1,19 @@
+# This is single line comment
+
+#* printing hello world
+also this is multiline comment *#
+
+x = 1
+y = 3.142
+z = "Shivam"
+name = input("Enter you name")
+class Person:
+
+	# This is single line comment
+
+    	#* printing hello world
+	also this is multiline comment *#
+
+	print("HI, this is Person Class")
+	def myfunc():
+		print("Hello, this myfunc method")
